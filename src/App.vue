@@ -45,6 +45,14 @@
 		</div>
 
 		<GameRulesModal :showModal="showModal" :bonusMode="bonusMode" @close="toggleModal()" />
+
+		<a
+			href="https://github.com/brunomdsilva"
+			target="_blank"
+			class="fixed left-2 top-2 p-2 fill-primary-light hover:fill-white transition-colors duration-300"
+		>
+			<IconGithub class="w-6" />
+		</a>
 	</div>
 </template>
 
@@ -59,6 +67,7 @@ import IconHandSpock from "@/components/icons/IconHandSpock.vue";
 import IconHandScissors from "@/components/icons/IconHandScissors.vue";
 import IconHandPaper from "@/components/icons/IconHandPaper.vue";
 import IconHandRock from "@/components/icons/IconHandRock.vue";
+import IconGithub from "@/components/icons/IconGithub.vue";
 import { computed, ref } from "vue";
 
 const score = ref(0);
