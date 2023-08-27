@@ -22,7 +22,7 @@
 					<p class="text-2xl sm:text-3xl tracking-wider font-bold text-primary-dark">RULES</p>
 
 					<img
-						:src="bonusMode ? 'src/assets/image-rules-bonus.svg' : 'src/assets/image-rules.svg'"
+						:src="bonusMode ? 'imgs/image-rules-bonus.svg' : 'imgs/image-rules.svg'"
 						alt="rules"
 						class="w-full"
 					/>

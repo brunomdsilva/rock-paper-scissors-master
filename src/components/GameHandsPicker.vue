@@ -2,7 +2,7 @@
 	<div class="mx-auto relative w-full max-w-lg">
 		<div class="absolute inset-8 sm:inset-14">
 			<img
-				:src="bonusMode ? 'src/assets/bg-pentagon.svg' : 'src/assets/bg-triangle.svg'"
+				:src="bonusMode ? 'imgs/bg-pentagon.svg' : 'imgs/bg-triangle.svg'"
 				alt=""
 				class="h-full object-contain mx-auto"
 			/>

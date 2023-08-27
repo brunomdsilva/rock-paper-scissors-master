@@ -49,9 +49,9 @@
 		<a
 			href="https://github.com/brunomdsilva"
 			target="_blank"
-			class="fixed left-2 top-2 p-2 fill-primary-light hover:fill-white transition-colors duration-300"
+			class="fixed left-2 top-2 sm:top-4 sm:left-4 p-2 fill-primary-light hover:fill-white transition-colors duration-300"
 		>
-			<IconGithub class="w-6" />
+			<IconGithub class="w-6 sm:w-8" />
 		</a>
 	</div>
 </template>
