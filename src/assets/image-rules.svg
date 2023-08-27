@@ -1,0 +1,80 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 304 270" width="304" height="270">
+	<title>image-rules-svg</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,104.77,-106.378,0,53.189,0)">
+			<stop offset="0" stop-color="#ffffff" stop-opacity=".1"/>
+			<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+		</linearGradient>
+		<image  width="39" height="42" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAAqAQMAAAAK89CoAAAAAXNSR0IB2cksfwAAAAZQTFRFAAAAipCs5+RCQAAAAAJ0Uk5TAP9bkSK1AAAAYElEQVR4nKXPsQmAQAyF4QcWli4guoiYtazuRtNRbgRLi3Dx3rMTrEzxQeAnEAAjOKs0MhkXs/TlItNPI1caFZt0GY+7jLdZmpzl0HT0spNMLzA9db/Z0gKmBxjxyey4AX81aQReqsiEAAAAAElFTkSuQmCC"/>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,104.77,-107.372,0,249.686,0)">
+			<stop offset="0" stop-color="#ffffff" stop-opacity=".1"/>
+			<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+		</linearGradient>
+		<linearGradient id="g3" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,104.77,-107.372,0,151.686,160)">
+			<stop offset="0" stop-color="#ffffff" stop-opacity=".1"/>
+			<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+		</linearGradient>
+		<image  width="32" height="40" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAoAQMAAACl52raAAAAAXNSR0IB2cksfwAAAAZQTFRFAAAAipCs5+RCQAAAAAJ0Uk5TAP9bkSK1AAAATklEQVR4nJXOoRGAMBQE0WMiIikBSRmUkzKgtJRCCXF8keFgDYONeXLvlJqkHOAKJzTwARVu8I8VClzgEfaPjfJid812UA4lvxcmdjXAA3g3eOLW8lVKAAAAAElFTkSuQmCC"/>
+		<image  width="42" height="32" id="img3" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAgAQMAAABelnh+AAAAAXNSR0IB2cksfwAAAAZQTFRFAAAAipCs5+RCQAAAAAJ0Uk5TAP9bkSK1AAAAYElEQVR4nIXPsQ3AIAwEwI9SpPQIjMJoMBrZJCNESkOB+PA4RTrcnKW3ZBuWkS4g3GAd9I1twJNd1ERBGxj5MOPgqAyIMkOxO4giecY13yTUrIhOmNt/YNKdJkyv6KaCF24FdKDtA2wYAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #b1b4c5 } 
+		.s1 { fill: url(#g1) } 
+		.s2 { fill: #e1e4ed } 
+		.s3 { fill: url(#g2) } 
+		.s4 { fill: url(#g3) } 
+		.t5 { font-size: 13px;fill: #b1b4c5;font-weight: 700;font-family: "BarlowSemiCondensed-Bold", "Barlow Semi Condensed" } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" class="s0" d="m53.2 109.6c-29.4 0-53.2-24.5-53.2-54.8 0-30.3 23.8-54.8 53.2-54.8 29.4 0 53.2 24.5 53.2 54.8 0 30.3-23.8 54.8-53.2 54.8z"/>
+		<path id="Layer" class="s1" d="m53.2 104.8c-29.4 0-53.2-23.4-53.2-52.4 0-29 23.8-52.4 53.2-52.4 29.4 0 53.2 23.4 53.2 52.4 0 29-23.8 52.4-53.2 52.4z"/>
+		<g id="Layer">
+			<path id="Layer" class="s2" d="m53.2 94.5c-22.6 0-40.8-18.3-40.8-41 0-22.7 18.2-41.1 40.8-41.1 22.6 0 40.8 18.4 40.8 41.1 0 22.7-18.2 41-40.8 41z"/>
+			<use id="hand-solid" href="#img1" x="31" y="32"/>
+		</g>
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m249.7 109.6c-29.7 0-53.7-24.5-53.7-54.8 0-30.3 24-54.8 53.7-54.8 29.7 0 53.7 24.5 53.7 54.8 0 30.3-24 54.8-53.7 54.8z"/>
+			<path id="Layer" class="s3" d="m249.7 104.8c-29.7 0-53.7-23.4-53.7-52.4 0-29 24-52.4 53.7-52.4 29.7 0 53.7 23.4 53.7 52.4 0 29-24 52.4-53.7 52.4z"/>
+			<g id="Layer">
+				<path id="Layer" class="s2" d="m249.7 94.5c-22.8 0-41.2-18.3-41.2-41 0-22.7 18.4-41.1 41.2-41.1 22.8 0 41.2 18.4 41.2 41.1 0 22.7-18.4 41-41.2 41z"/>
+			</g>
+		</g>
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m151.7 269.6c-29.7 0-53.7-24.5-53.7-54.8 0-30.3 24-54.8 53.7-54.8 29.7 0 53.7 24.5 53.7 54.8 0 30.3-24 54.8-53.7 54.8z"/>
+			<path id="Layer" class="s4" d="m151.7 264.8c-29.7 0-53.7-23.4-53.7-52.4 0-29 24-52.4 53.7-52.4 29.7 0 53.7 23.4 53.7 52.4 0 29-24 52.4-53.7 52.4z"/>
+			<g id="Layer">
+				<path id="Layer" class="s2" d="m151.7 254.5c-22.8 0-41.2-18.3-41.2-41 0-22.7 18.4-41.1 41.2-41.1 22.8 0 41.2 18.4 41.2 41.1 0 22.7-18.4 41-41.2 41z"/>
+				<use id="hand-back-fist-solid" href="#img2" x="136" y="194"/>
+				<use id="hand-scissors-solid" href="#img3" x="226" y="39"/>
+			</g>
+		</g>
+		<text id="BEATS" style="transform: matrix(1,0,0,1,134,31)" >
+			<tspan x="0" y="0" class="t5">BEATS
+</tspan>
+		</text>
+		<text id="BEATS" style="transform: matrix(1,0,0,1,40,147)" >
+			<tspan x="0" y="0" class="t5">BEATS
+</tspan>
+		</text>
+		<text id="BEATS" style="transform: matrix(1,0,0,1,235,147)" >
+			<tspan x="0" y="0" class="t5">BEATS
+</tspan>
+		</text>
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m177 51c0-1.1-0.9-2-2-2h-46c-1.1 0-2 0.9-2 2 0 1.1 0.9 2 2 2h46c1.1 0 2-0.9 2-2z"/>
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m135 41l-8.6 8.7c-0.7 0.8-0.7 1.9 0.1 2.7q0.2 0.2 0.6 0.4 0.3 0.1 0.7 0.1 0.3 0 0.7-0.2 0.3-0.1 0.6-0.4l8.6-8.7q0.2-0.2 0.3-0.6 0.2-0.3 0.2-0.7 0-0.4-0.2-0.7-0.1-0.3-0.4-0.6-0.2-0.3-0.6-0.4-0.3-0.1-0.7-0.1-0.3 0-0.7 0.1-0.3 0.2-0.6 0.4z"/>
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m137.7 58.4l-8.6-8.7q-0.3-0.3-0.6-0.4-0.4-0.2-0.7-0.2-0.4 0-0.7 0.1-0.4 0.2-0.6 0.4c-0.8 0.8-0.8 1.9-0.1 2.7l8.6 8.7q0.3 0.2 0.6 0.4 0.4 0.1 0.7 0.1 0.4 0 0.7-0.1 0.4-0.1 0.6-0.4 0.3-0.3 0.4-0.6 0.2-0.3 0.2-0.7 0-0.4-0.2-0.7-0.1-0.4-0.3-0.6z"/>
+		</g>
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m82.1 116.7c-0.9 0.6-1.1 1.9-0.5 2.8l26.4 37.7c0.6 0.9 1.9 1.1 2.8 0.5 0.9-0.7 1.1-1.9 0.5-2.8l-26.4-37.7c-0.7-0.9-1.9-1.1-2.8-0.5z"/>
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m98 156.8l12.1 2c1 0.2 1.9-0.5 2.1-1.5q0.1-0.3 0-0.7-0.1-0.4-0.3-0.7-0.2-0.2-0.5-0.4-0.4-0.2-0.7-0.3l-12.1-2q-0.4-0.1-0.7 0-0.4 0.1-0.7 0.3-0.3 0.2-0.5 0.5-0.2 0.3-0.2 0.7-0.1 0.3 0 0.7 0.1 0.4 0.3 0.7 0.2 0.3 0.5 0.4 0.3 0.2 0.7 0.3z"/>
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m110.7 144.7l-2.2 12q-0.1 0.4 0 0.8 0.1 0.3 0.3 0.6 0.2 0.3 0.5 0.5 0.3 0.2 0.7 0.3c1 0.2 1.9-0.5 2.1-1.5l2.2-12.1q0.1-0.3 0-0.7-0.1-0.3-0.3-0.6-0.2-0.3-0.5-0.5-0.3-0.2-0.6-0.3-0.4-0.1-0.8 0-0.3 0.1-0.6 0.3-0.3 0.2-0.5 0.5-0.2 0.3-0.3 0.7z"/>
+		</g>
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m197.1 159.3c-0.9-0.6-1.1-1.9-0.5-2.8l26.4-37.7c0.6-0.9 1.9-1.1 2.8-0.5 0.9 0.7 1.1 1.9 0.5 2.8l-26.4 37.7c-0.7 0.9-1.9 1.1-2.8 0.5z"/>
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m213 119.2l12.1-2c1-0.2 1.9 0.5 2.1 1.5q0.1 0.3 0 0.7-0.1 0.4-0.3 0.7-0.2 0.2-0.5 0.4-0.4 0.2-0.7 0.3l-12.1 2q-0.4 0.1-0.7 0-0.4-0.1-0.7-0.3-0.3-0.2-0.5-0.5-0.2-0.3-0.2-0.7-0.1-0.3 0-0.7 0.1-0.4 0.3-0.7 0.2-0.3 0.5-0.4 0.3-0.2 0.7-0.3z"/>
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m225.7 131.3l-2.2-12q-0.1-0.4 0-0.8 0.1-0.3 0.3-0.6 0.2-0.3 0.5-0.5 0.3-0.2 0.7-0.3c1-0.2 1.9 0.5 2.1 1.5l2.2 12.1q0.1 0.3 0 0.7-0.1 0.3-0.3 0.6-0.2 0.3-0.5 0.5-0.3 0.2-0.6 0.3-0.4 0.1-0.8 0-0.3-0.1-0.6-0.3-0.3-0.2-0.5-0.5-0.2-0.3-0.3-0.7z"/>
+		</g>
+	</g>
+</svg>

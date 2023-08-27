@@ -1,0 +1,180 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 336 330" width="336" height="330">
+	<title>image-rules-bonus-svg</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,100.344,-103,0,284.5,92)">
+			<stop offset="0" stop-color="#ffffff" stop-opacity=".1"/>
+			<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+		</linearGradient>
+		<image  width="39" height="42" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAAqAQMAAAAK89CoAAAAAXNSR0IB2cksfwAAAAZQTFRFAAAAipCs5+RCQAAAAAJ0Uk5TAP9bkSK1AAAAYElEQVR4nKXPsQmAQAyF4QcWli4guoiYtazuRtNRbgRLi3Dx3rMTrEzxQeAnEAAjOKs0MhkXs/TlItNPI1caFZt0GY+7jLdZmpzl0HT0spNMLzA9db/Z0gKmBxjxyey4AX81aQReqsiEAAAAAElFTkSuQmCC"/>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,100.344,-103,0,51.5,92)">
+			<stop offset="0" stop-color="#ffffff" stop-opacity=".1"/>
+			<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+		</linearGradient>
+		<image  width="41" height="41" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACkAAAApAQMAAACSrpK1AAAAAXNSR0IB2cksfwAAAAZQTFRFAAAAipCs5+RCQAAAAAJ0Uk5TAP9bkSK1AAAAi0lEQVR4nF3QsQ0CMQwF0H+6ImVGyChZDCnZhFGOjpIRuI42EgVBHAnfNqcI3LwU9pcdwGVI+dMvTh5+daviyXRW5ltRHsVfshCEewlX8qo7x4zpWcNC3lscgCRmtp2ktNRI6n1wIBvQo7EYrPoPO3oBguENN5DlDXxhtNwXDQ7KJ3BQbp91B/Yw+QPXAYB1n8/kyQAAAABJRU5ErkJggg=="/>
+		<linearGradient id="g3" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,100.344,-103,0,168.5,0)">
+			<stop offset="0" stop-color="#ffffff" stop-opacity=".1"/>
+			<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+		</linearGradient>
+		<image  width="42" height="32" id="img3" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAgAQMAAABelnh+AAAAAXNSR0IB2cksfwAAAAZQTFRFAAAAipCs5+RCQAAAAAJ0Uk5TAP9bkSK1AAAAYElEQVR4nIXPsQ3AIAwEwI9SpPQIjMJoMBrZJCNESkOB+PA4RTrcnKW3ZBuWkS4g3GAd9I1twJNd1ERBGxj5MOPgqAyIMkOxO4giecY13yTUrIhOmNt/YNKdJkyv6KaCF24FdKDtA2wYAAAAAElFTkSuQmCC"/>
+		<linearGradient id="g4" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,100.344,-103,0,238.5,225)">
+			<stop offset="0" stop-color="#ffffff" stop-opacity=".1"/>
+			<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+		</linearGradient>
+		<image  width="32" height="40" id="img4" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAoAQMAAACl52raAAAAAXNSR0IB2cksfwAAAAZQTFRFAAAAipCs5+RCQAAAAAJ0Uk5TAP9bkSK1AAAATklEQVR4nJXOoRGAMBQE0WMiIikBSRmUkzKgtJRCCXF8keFgDYONeXLvlJqkHOAKJzTwARVu8I8VClzgEfaPjfJid812UA4lvxcmdjXAA3g3eOLW8lVKAAAAAElFTkSuQmCC"/>
+		<linearGradient id="g5" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,100.344,-103,0,97.5,225)">
+			<stop offset="0" stop-color="#ffffff" stop-opacity=".1"/>
+			<stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+		</linearGradient>
+		<image  width="44" height="34" id="img5" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAiAQMAAAAeQKkyAAAAAXNSR0IB2cksfwAAAAZQTFRFAAAAipCs5+RCQAAAAAJ0Uk5TAP9bkSK1AAAAXElEQVR4nG3OsQ2AMAxE0bNSpGQkRoPRGCUjpKRAuZickYKU6jX2t3GQFQDJRzTB4BTXjwL43lhE4v1iAiPjtAkbNZ/0mimaVMuqzdQ1iXHQ4m6wi03k76cFxtIB4KF0c200AuoAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #b1b4c5 } 
+		.s1 { fill: url(#g1) } 
+		.s2 { fill: #e1e4ed } 
+		.s3 { fill: url(#g2) } 
+		.s4 { fill: url(#g3) } 
+		.s5 { fill: url(#g4) } 
+		.s6 { fill: url(#g5) } 
+		.t7 { font-size: 6px;fill: #b1b4c5;font-weight: 700;font-family: "BarlowSemiCondensed-Bold", "Barlow Semi Condensed" } 
+		.t8 { font-size: 11px;fill: #b1b4c5;font-weight: 700;font-family: "BarlowSemiCondensed-Bold", "Barlow Semi Condensed" } 
+	</style>
+	<g id="Layer">
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m284.5 192.3c-28.5 0-51.5-22.4-51.5-50.1 0-27.8 23-50.2 51.5-50.2 28.5 0 51.5 22.4 51.5 50.2 0 27.7-23 50.1-51.5 50.1z"/>
+			<path id="Layer" class="s1" d="m284.5 192.3c-28.5 0-51.5-22.4-51.5-50.1 0-27.8 23-50.2 51.5-50.2 28.5 0 51.5 22.4 51.5 50.2 0 27.7-23 50.1-51.5 50.1z"/>
+			<g id="Layer">
+				<path id="Layer" class="s2" d="m284.5 182.5c-21.9 0-39.5-17.6-39.5-39.3 0-21.7 17.6-39.3 39.5-39.3 21.9 0 39.5 17.6 39.5 39.3 0 21.7-17.6 39.3-39.5 39.3z"/>
+				<use id="hand-solid" href="#img1" x="262" y="123"/>
+			</g>
+		</g>
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m51.5 197c-28.5 0-51.5-23.5-51.5-52.5 0-29 23-52.5 51.5-52.5 28.5 0 51.5 23.5 51.5 52.5 0 29-23 52.5-51.5 52.5z"/>
+			<path id="Layer" class="s3" d="m51.5 192.3c-28.5 0-51.5-22.4-51.5-50.1 0-27.8 23-50.2 51.5-50.2 28.5 0 51.5 22.4 51.5 50.2 0 27.7-23 50.1-51.5 50.1z"/>
+			<g id="Layer">
+				<path id="Layer" class="s2" d="m51.5 182.5c-21.9 0-39.5-17.6-39.5-39.3 0-21.7 17.6-39.3 39.5-39.3 21.9 0 39.5 17.6 39.5 39.3 0 21.7-17.6 39.3-39.5 39.3z"/>
+				<use id="hand-spock-solid" href="#img2" x="29" y="124"/>
+			</g>
+		</g>
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m168.5 105c-28.5 0-51.5-23.5-51.5-52.5 0-29 23-52.5 51.5-52.5 28.5 0 51.5 23.5 51.5 52.5 0 29-23 52.5-51.5 52.5z"/>
+			<path id="Layer" class="s4" d="m168.5 100.3c-28.5 0-51.5-22.4-51.5-50.1 0-27.8 23-50.2 51.5-50.2 28.5 0 51.5 22.4 51.5 50.2 0 27.7-23 50.1-51.5 50.1z"/>
+			<g id="Layer">
+				<path id="Layer" class="s2" d="m168.5 90.5c-21.9 0-39.5-17.6-39.5-39.3 0-21.7 17.6-39.3 39.5-39.3 21.9 0 39.5 17.6 39.5 39.3 0 21.7-17.6 39.3-39.5 39.3z"/>
+				<use id="hand-scissors-solid" href="#img3" x="145" y="38"/>
+			</g>
+		</g>
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m238.5 330c-28.5 0-51.5-23.5-51.5-52.5 0-29 23-52.5 51.5-52.5 28.5 0 51.5 23.5 51.5 52.5 0 29-23 52.5-51.5 52.5z"/>
+			<path id="Layer" class="s5" d="m238.5 325.3c-28.5 0-51.5-22.4-51.5-50.1 0-27.8 23-50.2 51.5-50.2 28.5 0 51.5 22.4 51.5 50.2 0 27.7-23 50.1-51.5 50.1z"/>
+			<g id="Layer">
+				<path id="Layer" class="s2" d="m238.5 315.5c-21.9 0-39.5-17.6-39.5-39.3 0-21.7 17.6-39.3 39.5-39.3 21.9 0 39.5 17.6 39.5 39.3 0 21.7-17.6 39.3-39.5 39.3z"/>
+				<use id="hand-back-fist-solid" href="#img4" x="222" y="255"/>
+			</g>
+		</g>
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m97.5 330c-28.5 0-51.5-23.5-51.5-52.5 0-29 23-52.5 51.5-52.5 28.5 0 51.5 23.5 51.5 52.5 0 29-23 52.5-51.5 52.5z"/>
+			<path id="Layer" class="s6" d="m97.5 325.3c-28.5 0-51.5-22.4-51.5-50.1 0-27.8 23-50.2 51.5-50.2 28.5 0 51.5 22.4 51.5 50.2 0 27.7-23 50.1-51.5 50.1z"/>
+			<g id="Layer">
+				<path id="Layer" class="s2" d="m97.5 315.5c-21.9 0-39.5-17.6-39.5-39.3 0-21.7 17.6-39.3 39.5-39.3 21.9 0 39.5 17.6 39.5 39.3 0 21.7-17.6 39.3-39.5 39.3z"/>
+				<use id="hand-lizard-solid" href="#img5" x="74" y="262"/>
+			</g>
+		</g>
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m81.1 89.2c-0.5-0.5-0.4-1.4 0.2-1.8l23-19.3c0.5-0.5 1.4-0.4 1.8 0.1 0.5 0.6 0.4 1.4-0.1 1.9l-23 19.3c-0.6 0.5-1.4 0.4-1.9-0.2z"/>
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m97.8 66.5l8.1 0.9c0.6 0 1.1 0.6 1.1 1.3q0 0.2-0.1 0.5-0.2 0.2-0.3 0.3-0.2 0.2-0.4 0.2-0.3 0.1-0.5 0.1l-8.1-0.9q-0.2 0-0.4-0.1-0.2-0.1-0.4-0.3-0.1-0.2-0.2-0.4-0.1-0.3-0.1-0.5 0-0.2 0.2-0.5 0.1-0.2 0.3-0.3 0.1-0.2 0.4-0.2 0.2-0.1 0.4-0.1z"/>
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m104 76.5l0.5-8.1q0-0.2 0.2-0.4 0.1-0.3 0.2-0.4 0.2-0.2 0.5-0.2 0.2-0.1 0.4-0.1c0.7 0.1 1.2 0.7 1.2 1.3l-0.6 8.1q0 0.3-0.1 0.5-0.1 0.2-0.3 0.3-0.2 0.2-0.4 0.3-0.3 0-0.5 0-0.2 0-0.5-0.1-0.2-0.1-0.3-0.3-0.2-0.2-0.3-0.4 0-0.3 0-0.5z"/>
+		</g>
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m229.1 66.8c-0.5 0.5-0.4 1.4 0.2 1.8l23 19.3c0.5 0.5 1.4 0.4 1.8-0.1 0.5-0.6 0.4-1.4-0.1-1.9l-23-19.3c-0.6-0.5-1.4-0.4-1.9 0.2z"/>
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m245.8 89.5l8.1-0.9c0.6 0 1.1-0.6 1.1-1.3q0-0.2-0.1-0.5-0.2-0.2-0.3-0.3-0.2-0.2-0.4-0.2-0.3-0.1-0.5-0.1l-8.1 0.9q-0.2 0-0.4 0.1-0.2 0.1-0.4 0.3-0.1 0.2-0.2 0.4-0.1 0.3-0.1 0.5 0 0.2 0.2 0.5 0.1 0.2 0.2 0.3 0.2 0.2 0.5 0.2 0.2 0.1 0.4 0.1z"/>
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m252 79.5l0.5 8.1q0 0.2 0.2 0.4 0.1 0.3 0.2 0.4 0.2 0.2 0.5 0.2 0.2 0.1 0.4 0.1c0.7-0.1 1.2-0.7 1.2-1.3l-0.6-8.1q0-0.3-0.1-0.5-0.1-0.2-0.3-0.3-0.2-0.2-0.4-0.3-0.3 0-0.5 0-0.2 0-0.5 0.1-0.2 0.1-0.3 0.3-0.2 0.2-0.3 0.4 0 0.3 0 0.5z"/>
+		</g>
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m299 204c0.6 0.5 0.7 1.3 0.3 1.9l-18.1 24c-0.4 0.6-1.3 0.7-1.8 0.2-0.6-0.4-0.7-1.2-0.3-1.8l18.1-24c0.4-0.6 1.2-0.7 1.8-0.3z"/>
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m287.8 229.9l-8 1c-0.7 0.1-1.3-0.4-1.4-1q0-0.3 0-0.5 0.1-0.2 0.3-0.4 0.1-0.2 0.3-0.3 0.2-0.2 0.5-0.2l8-1q0.2 0 0.5 0.1 0.2 0 0.4 0.2 0.2 0.1 0.3 0.3 0.1 0.2 0.2 0.5 0 0.2-0.1 0.5 0 0.2-0.2 0.4-0.1 0.2-0.3 0.3-0.2 0.1-0.5 0.1z"/>
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m279.6 221.6l1.3 8q0 0.2 0 0.5-0.1 0.2-0.2 0.4-0.2 0.2-0.4 0.3-0.2 0.1-0.4 0.2c-0.7 0-1.3-0.4-1.4-1.1l-1.3-8q0-0.2 0-0.4 0.1-0.3 0.2-0.5 0.2-0.2 0.4-0.3 0.2-0.1 0.4-0.1 0.3-0.1 0.5 0 0.2 0.1 0.4 0.2 0.2 0.2 0.4 0.4 0.1 0.2 0.1 0.4z"/>
+		</g>
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m186 305c0-0.7-0.6-1.3-1.3-1.3h-30.1c-0.7 0-1.3 0.6-1.3 1.3 0 0.7 0.6 1.3 1.3 1.3h30.1c0.7 0 1.3-0.6 1.3-1.3z"/>
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m158.6 298.3l-5.7 5.9c-0.4 0.4-0.4 1.2 0.1 1.7q0.1 0.2 0.3 0.3 0.3 0.1 0.5 0.1 0.2 0 0.5-0.1 0.2-0.1 0.4-0.3l5.6-5.8q0.1-0.2 0.2-0.4 0.1-0.3 0.1-0.5 0-0.2-0.1-0.5-0.1-0.2-0.2-0.4-0.2-0.1-0.4-0.2-0.2-0.1-0.5-0.1-0.2 0-0.4 0.1-0.3 0.1-0.4 0.2z"/>
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m160.3 309.9l-5.6-5.8q-0.2-0.2-0.4-0.3-0.3-0.1-0.5-0.1-0.2 0-0.5 0.1-0.2 0.1-0.3 0.3c-0.5 0.5-0.5 1.3-0.1 1.7l5.7 5.9q0.1 0.1 0.4 0.2 0.2 0.1 0.4 0.1 0.3 0 0.5-0.1 0.2-0.1 0.4-0.2 0.1-0.2 0.2-0.4 0.1-0.3 0.1-0.5 0-0.2-0.1-0.5-0.1-0.2-0.2-0.4z"/>
+		</g>
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m58 232c0.6-0.5 0.7-1.3 0.3-1.9l-18.1-24c-0.4-0.6-1.3-0.7-1.8-0.2-0.6 0.4-0.7 1.2-0.3 1.8l18.1 24c0.4 0.6 1.2 0.7 1.8 0.3z"/>
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m46.8 206.1l-8-1c-0.7-0.1-1.3 0.4-1.4 1q0 0.3 0 0.5 0.1 0.2 0.3 0.4 0.1 0.2 0.3 0.3 0.2 0.2 0.5 0.2l8 1q0.2 0 0.5-0.1 0.2 0 0.4-0.2 0.2-0.1 0.3-0.3 0.1-0.2 0.2-0.5 0-0.2-0.1-0.5 0-0.2-0.2-0.4-0.1-0.2-0.3-0.3-0.2-0.1-0.5-0.1z"/>
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m38.6 214.4l1.3-8q0-0.2 0-0.5-0.1-0.2-0.2-0.4-0.2-0.2-0.4-0.3-0.2-0.1-0.4-0.2c-0.7 0-1.3 0.4-1.4 1.1l-1.3 8q0 0.2 0 0.4 0.1 0.3 0.2 0.5 0.2 0.2 0.4 0.3 0.2 0.1 0.4 0.1 0.3 0.1 0.5 0 0.2-0.1 0.4-0.2 0.2-0.2 0.4-0.4 0.1-0.2 0.1-0.4z"/>
+		</g>
+		<g id="Layer">
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m211.3 139c0-0.7-0.6-1.3-1.3-1.3h-82.4c-0.7 0-1.3 0.6-1.3 1.3 0 0.7 0.6 1.3 1.3 1.3h82.4c0.7 0 1.3-0.6 1.3-1.3z"/>
+				<path id="Layer" fill-rule="evenodd" class="s0" d="m131.6 132.3l-5.7 5.9c-0.4 0.4-0.4 1.2 0.1 1.7q0.1 0.2 0.3 0.3 0.3 0.1 0.5 0.1 0.2 0 0.5-0.1 0.2-0.1 0.4-0.3l5.6-5.8q0.1-0.2 0.2-0.4 0.1-0.3 0.1-0.5 0-0.2-0.1-0.5-0.1-0.2-0.2-0.4-0.2-0.1-0.4-0.2-0.2-0.1-0.5-0.1-0.2 0-0.4 0.1-0.3 0.1-0.4 0.2z"/>
+				<path id="Layer" fill-rule="evenodd" class="s0" d="m133.3 143.9l-5.6-5.8q-0.2-0.2-0.4-0.3-0.3-0.1-0.5-0.1-0.2 0-0.5 0.1-0.2 0.1-0.3 0.3c-0.5 0.5-0.5 1.3-0.1 1.7l5.7 5.9q0.1 0.1 0.4 0.2 0.2 0.1 0.4 0.1 0.3 0 0.5-0.1 0.2-0.1 0.4-0.2 0.1-0.2 0.2-0.4 0.1-0.3 0.1-0.5 0-0.2-0.1-0.5-0.1-0.2-0.2-0.4z"/>
+			</g>
+			<text id="BEATS" style="transform: matrix(1,0,0,1,159,151)" >
+				<tspan x="0" y="0" class="t7">BEATS
+</tspan>
+			</text>
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m114.9 173.5c0.5-0.6 1.3-0.7 1.9-0.2l63 52.9c0.6 0.5 0.7 1.3 0.2 1.9-0.5 0.6-1.3 0.6-1.9 0.2l-63-53c-0.6-0.4-0.7-1.3-0.2-1.8z"/>
+				<path id="Layer" fill-rule="evenodd" class="s0" d="m180.3 219.6l0.5 8.1c0.1 0.7-0.4 1.3-1.1 1.3q-0.2 0-0.5 0-0.2-0.1-0.4-0.3-0.2-0.1-0.3-0.3-0.1-0.2-0.1-0.5l-0.6-8q0-0.3 0.1-0.5 0.1-0.3 0.2-0.4 0.2-0.2 0.4-0.3 0.2-0.2 0.5-0.2 0.2 0 0.4 0.1 0.3 0 0.4 0.2 0.2 0.2 0.3 0.4 0.1 0.2 0.2 0.4z"/>
+				<path id="Layer" fill-rule="evenodd" class="s0" d="m171.5 227.4l8.1-0.9q0.2 0 0.4 0.1 0.3 0.1 0.4 0.2 0.2 0.2 0.3 0.4 0.1 0.2 0.2 0.4c0 0.7-0.5 1.3-1.2 1.4l-8 0.8q-0.2 0-0.5 0-0.2-0.1-0.4-0.2-0.2-0.2-0.3-0.4-0.1-0.2-0.1-0.5 0-0.2 0.1-0.4 0-0.3 0.2-0.5 0.1-0.2 0.4-0.3 0.2-0.1 0.4-0.1z"/>
+			</g>
+			<text id="BEATS" style="transform: matrix(.766,.643,-0.643,.766,146.32,189.385)" >
+				<tspan x="0" y="0" class="t7">BEATS
+</tspan>
+			</text>
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m154.8 229.1c-0.5-0.5-0.4-1.4 0.1-1.8l63.1-53c0.6-0.4 1.4-0.4 1.9 0.2 0.4 0.6 0.4 1.4-0.2 1.9l-63.1 52.9c-0.5 0.5-1.4 0.4-1.8-0.2z"/>
+				<path id="Layer" fill-rule="evenodd" class="s0" d="m211.6 172.8l8 0.8c0.7 0.1 1.2 0.7 1.1 1.4q0 0.2-0.1 0.4-0.1 0.2-0.3 0.4-0.2 0.1-0.4 0.2-0.3 0.1-0.5 0.1l-8-0.9q-0.3 0-0.5-0.1-0.2-0.2-0.4-0.3-0.1-0.2-0.2-0.5-0.1-0.2 0-0.4 0-0.3 0.1-0.5 0.1-0.2 0.3-0.4 0.2-0.1 0.4-0.2 0.2 0 0.5 0z"/>
+				<path id="Layer" fill-rule="evenodd" class="s0" d="m217.7 182.7l0.6-8q0-0.3 0.1-0.5 0.1-0.2 0.3-0.3 0.2-0.2 0.4-0.3 0.2 0 0.5 0c0.6 0 1.1 0.6 1.1 1.3l-0.6 8.1q0 0.2-0.1 0.4-0.1 0.2-0.3 0.4-0.2 0.2-0.4 0.2-0.2 0.1-0.5 0.1-0.2 0-0.4-0.2-0.3-0.1-0.4-0.3-0.2-0.1-0.2-0.4-0.1-0.2-0.1-0.5z"/>
+			</g>
+			<text id="BEATS" style="transform: matrix(.766,-0.643,.643,.766,175.891,200.955)" >
+				<tspan x="0" y="0" class="t7">BEATS
+</tspan>
+			</text>
+			<g id="Layer">
+				<g id="Layer">
+					<path id="Layer" class="s0" d="m214.6 205.7c-0.7 0.2-1.4-0.1-1.7-0.8l-28.1-77.4c-0.3-0.7 0.1-1.5 0.8-1.7 0.7-0.3 1.4 0.1 1.7 0.8l28.1 77.4c0.3 0.7-0.1 1.4-0.8 1.7z"/>
+					<path id="Layer" fill-rule="evenodd" class="s0" d="m181.1 133l3.5-7.3c0.3-0.6 1.1-0.8 1.7-0.5q0.2 0.1 0.4 0.2 0.1 0.2 0.2 0.4 0.1 0.3 0.1 0.5 0 0.2-0.1 0.5l-3.6 7.2q-0.1 0.2-0.3 0.4-0.2 0.2-0.4 0.3-0.2 0-0.5 0-0.2 0-0.4-0.1-0.2-0.1-0.4-0.3-0.2-0.1-0.2-0.4-0.1-0.2-0.1-0.4 0-0.3 0.1-0.5z"/>
+					<path id="Layer" fill-rule="evenodd" class="s0" d="m192.6 130.7l-7.4-3.3q-0.2-0.1-0.4-0.3-0.2-0.2-0.3-0.4 0-0.2 0-0.5 0-0.2 0.1-0.4c0.3-0.6 1-0.9 1.6-0.6l7.4 3.3q0.2 0.1 0.4 0.2 0.2 0.2 0.2 0.4 0.1 0.3 0.1 0.5 0 0.2-0.1 0.5-0.1 0.2-0.3 0.3-0.2 0.2-0.4 0.3-0.2 0.1-0.5 0.1-0.2 0-0.4-0.1z"/>
+				</g>
+				<text id="BEATS" style="transform: matrix(-0.342,-0.94,.94,-0.342,195.038,175.227)" >
+					<tspan x="0" y="0" class="t7">BEATS
+</tspan>
+				</text>
+			</g>
+			<g id="Layer">
+				<g id="Layer">
+					<path id="Layer" class="s0" d="m151 124.3c0.7 0.2 1 1 0.8 1.7l-28.2 77.4c-0.2 0.6-1 1-1.7 0.8-0.7-0.3-1-1.1-0.8-1.8l28.2-77.3c0.2-0.7 1-1.1 1.7-0.8z"/>
+					<path id="Layer" fill-rule="evenodd" class="s0" d="m130 201.5l-7.4 3.3c-0.6 0.3-1.4 0-1.7-0.6q-0.1-0.2-0.1-0.5 0-0.2 0.1-0.4 0.1-0.3 0.3-0.4 0.1-0.2 0.3-0.3l7.4-3.3q0.3-0.1 0.5-0.1 0.2 0 0.5 0.1 0.2 0 0.4 0.2 0.2 0.2 0.3 0.4 0.1 0.2 0.1 0.5 0 0.2-0.1 0.4-0.1 0.2-0.2 0.4-0.2 0.2-0.4 0.3z"/>
+					<path id="Layer" fill-rule="evenodd" class="s0" d="m119.7 195.9l3.5 7.3q0.1 0.2 0.1 0.4 0.1 0.3 0 0.5-0.1 0.2-0.3 0.4-0.1 0.2-0.3 0.3c-0.7 0.3-1.4 0-1.7-0.6l-3.5-7.3q-0.1-0.2-0.2-0.4 0-0.3 0.1-0.5 0.1-0.2 0.3-0.4 0.1-0.2 0.3-0.3 0.3-0.1 0.5-0.1 0.2 0 0.5 0.1 0.2 0.1 0.4 0.2 0.2 0.2 0.3 0.4z"/>
+				</g>
+				<text id="BEATS" style="transform: matrix(-0.342,.94,-0.94,-0.342,147.461,157.374)" >
+					<tspan x="0" y="0" class="t7">BEATS
+</tspan>
+				</text>
+			</g>
+		</g>
+		<text id="BEATS" style="transform: matrix(1,0,0,1,252,64)" >
+			<tspan x="0" y="0" class="t8">BEATS
+</tspan>
+		</text>
+		<text id="BEATS" style="transform: matrix(1,0,0,1,55,64)" >
+			<tspan x="0" y="0" class="t8">BEATS
+</tspan>
+		</text>
+		<text id="BEATS" style="transform: matrix(1,0,0,1,305,225)" >
+			<tspan x="0" y="0" class="t8">BEATS
+</tspan>
+		</text>
+		<text id="BEATS" style="transform: matrix(1,0,0,1,1,225)" >
+			<tspan x="0" y="0" class="t8">BEATS
+</tspan>
+		</text>
+		<text id="BEATS" style="transform: matrix(1,0,0,1,154,328)" >
+			<tspan x="0" y="0" class="t8">BEATS
+</tspan>
+		</text>
+	</g>
+</svg>
