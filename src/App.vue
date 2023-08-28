@@ -119,7 +119,7 @@ function checkWinner() {
 	};
 
 	isPlayerWinner.value = winAgainst[playerPick.value.name].includes(botPick.value.name);
-	if (isPlayerWinner.value) setTimeout(() => score.value++, 500);
+	if (isPlayerWinner.value) setTimeout(() => score.value++, 1500);
 }
 
 function getRandomPick() {

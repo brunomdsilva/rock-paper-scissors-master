@@ -20,20 +20,28 @@
 			</div>
 		</div>
 
-		<div class="font-bold flex flex-col gap-6 items-center">
-			<p
-				class="text-6xl tracking-widest animate-pulse"
-				:class="isPlayerWinner ? 'text-green-500' : 'text-red-500'"
-				v-text="isPlayerWinner ? 'YOU WIN' : 'YOU LOSE'"
-			/>
+		<Transition
+			appear
+			enter-from-class="opacity-0 -translate-y-full"
+			leave-to-class="opacity-0 -translate-y-full"
+			enter-active-class="transition-all duration-700 delay-500"
+			leave-active-class="transition-all duration-500"
+		>
+			<div class="font-bold flex flex-col gap-6 items-center">
+				<p
+					class="text-6xl tracking-widest animate-pulse"
+					:class="isPlayerWinner ? 'text-green-500' : 'text-red-500'"
+					v-text="isPlayerWinner ? 'YOU WIN' : 'YOU LOSE'"
+				/>
 
-			<button
-				@click.prevent="$emit('restart')"
-				class="py-3 px-10 tracking-widest rounded-lg bg-white text-primary-dark hover:text-primary-blue transition-colors duration-300 shadow-md text-xl"
-			>
-				PLAY AGAIN
-			</button>
-		</div>
+				<button
+					@click.prevent="$emit('restart')"
+					class="py-3 px-10 tracking-widest rounded-lg bg-white text-primary-dark hover:text-primary-blue transition-colors duration-300 shadow-md text-xl"
+				>
+					PLAY AGAIN
+				</button>
+			</div>
+		</Transition>
 	</div>
 </template>
 
